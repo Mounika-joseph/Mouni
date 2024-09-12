@@ -1,0 +1,2 @@
+const mod=(a,b)=>a%b;
+console.log(mod(10,100));
